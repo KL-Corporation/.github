@@ -18,4 +18,4 @@
 ### Our Software
 - 🎮 **Koponen Dating Simulator**: An intense platforming shooter game with an immersive love story.
 - 🎮 **Oispa KaLussa**: A custom 2048 clone themed in upper secondary school vibes.
-- 🎮 **Mastermind**: The classic game _Mastermind_ implemented in Python and [<img title="pygame website" height="22px" align="top" src="https://raw.githubusercontent.com/pygame-community/pygame-ce/main/docs/reST/_static/pygame_logo.svg">](https://pyga.me/)
+- 🎮 **Mastermind**: The classic game _Mastermind_ implemented in Python and [<img title="pygame website" height="22px" align="top" src="https://github.com/pygame/pygame/blob/main/docs/reST/_static/pygame_logo.svg">](https://pyga.me/)
