@@ -11,7 +11,7 @@
 <summary><a target="_blank" href="https://github.com/NALStudio"><img title="NALStudio's GitHub Account" align="center" src="https://github.com/NALStudio.png?size=32px" /></a>&nbsp;&nbsp;<b>Niko Leinonen</b></summary>
 
 &emsp;👋 Hi! I'm Niko, creator of [**Niko - Elämäsi Rakkaus**](https://play.google.com/store/apps/details?id=com.nalstudio.kotisataman_niko) and the lead developer of **Oispa KaLussa**.  
-&emsp;⌨ Some of my cool projects include **[NDiscoPlus](https://github.com/NALStudio/NDiscoPlus)** and **[Nysse Asemanäyttö](https://github.com/NALStudio/Nysse-Asemanaytto-V2)**.
+&emsp;⌨ Some of my cool projects include **[NLauncher](https://nalstudio.github.io/NLauncher)** and **[Nysse Asemanäyttö](https://github.com/NALStudio/Nysse-Asemanaytto-V2)**.
 </ul>
 </details>
 
